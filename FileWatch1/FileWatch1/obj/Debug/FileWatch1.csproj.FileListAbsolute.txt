@@ -1,0 +1,8 @@
+C:\Users\sureshkumar_a\Documents\Visual Studio 2015\Projects\FileWatch1\FileWatch1\bin\Debug\FileWatch1.exe.config
+C:\Users\sureshkumar_a\Documents\Visual Studio 2015\Projects\FileWatch1\FileWatch1\bin\Debug\FileWatch1.exe
+C:\Users\sureshkumar_a\Documents\Visual Studio 2015\Projects\FileWatch1\FileWatch1\bin\Debug\FileWatch1.pdb
+C:\Users\sureshkumar_a\Documents\Visual Studio 2015\Projects\FileWatch1\FileWatch1\obj\Debug\FileWatch1.ProjectInstaller.resources
+C:\Users\sureshkumar_a\Documents\Visual Studio 2015\Projects\FileWatch1\FileWatch1\obj\Debug\FileWatch1.Service1.resources
+C:\Users\sureshkumar_a\Documents\Visual Studio 2015\Projects\FileWatch1\FileWatch1\obj\Debug\FileWatch1.csproj.GenerateResource.Cache
+C:\Users\sureshkumar_a\Documents\Visual Studio 2015\Projects\FileWatch1\FileWatch1\obj\Debug\FileWatch1.exe
+C:\Users\sureshkumar_a\Documents\Visual Studio 2015\Projects\FileWatch1\FileWatch1\obj\Debug\FileWatch1.pdb

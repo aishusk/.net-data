@@ -1,0 +1,14 @@
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\bin\Debug\NewADO.dll.config
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\bin\Debug\NewADO.dll
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\bin\Debug\NewADO.pdb
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\bin\Debug\EntityFramework.dll
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\bin\Debug\EntityFramework.xml
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\obj\Debug\NewADO.csprojResolveAssemblyReference.cache
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\obj\Debug\NewADO.dll
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\obj\Debug\NewADO.pdb
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\obj\Debug\NewADO.Migrations.InitialCreate.resources
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\obj\Debug\NewADO.csproj.GenerateResource.Cache
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\obj\Debug\NewADO.Migrations.AddURL.resources
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewADO\obj\Debug\NewADO.Migrations.AddDepartment.resources

@@ -1,0 +1,6 @@
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\LinqPractice\LinqPractice\bin\Debug\LinqPractice.exe.config
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\LinqPractice\LinqPractice\bin\Debug\LinqPractice.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\LinqPractice\LinqPractice\bin\Debug\LinqPractice.pdb
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\LinqPractice\LinqPractice\obj\Debug\LinqPractice.csprojResolveAssemblyReference.cache
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\LinqPractice\LinqPractice\obj\Debug\LinqPractice.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\LinqPractice\LinqPractice\obj\Debug\LinqPractice.pdb

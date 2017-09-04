@@ -1,0 +1,12 @@
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\bin\Debug\NewConsole.exe.config
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\bin\Debug\NewConsole.exe
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\bin\Debug\NewConsole.pdb
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\bin\Debug\EntityFramework.dll
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\bin\Debug\NewADO.dll
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\bin\Debug\NewADO.pdb
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\bin\Debug\EntityFramework.xml
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\obj\Debug\NewConsole.csprojResolveAssemblyReference.cache
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\obj\Debug\NewConsole.exe
+c:\Users\sureshkumar_a\documents\visual studio 2015\Projects\NewADO\NewConsole\obj\Debug\NewConsole.pdb

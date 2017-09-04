@@ -1,0 +1,5 @@
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\exceptionsPrac\exceptionsPrac\bin\Debug\exceptionsPrac.exe.config
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\exceptionsPrac\exceptionsPrac\bin\Debug\exceptionsPrac.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\exceptionsPrac\exceptionsPrac\bin\Debug\exceptionsPrac.pdb
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\exceptionsPrac\exceptionsPrac\obj\Debug\exceptionsPrac.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\exceptionsPrac\exceptionsPrac\obj\Debug\exceptionsPrac.pdb

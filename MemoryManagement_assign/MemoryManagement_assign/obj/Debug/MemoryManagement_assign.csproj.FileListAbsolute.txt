@@ -1,0 +1,6 @@
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\MemoryManagement_assign\MemoryManagement_assign\bin\Debug\MemoryManagement_assign.exe.config
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\MemoryManagement_assign\MemoryManagement_assign\bin\Debug\MemoryManagement_assign.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\MemoryManagement_assign\MemoryManagement_assign\bin\Debug\MemoryManagement_assign.pdb
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\MemoryManagement_assign\MemoryManagement_assign\obj\Debug\MemoryManagement_assign.csprojResolveAssemblyReference.cache
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\MemoryManagement_assign\MemoryManagement_assign\obj\Debug\MemoryManagement_assign.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\MemoryManagement_assign\MemoryManagement_assign\obj\Debug\MemoryManagement_assign.pdb

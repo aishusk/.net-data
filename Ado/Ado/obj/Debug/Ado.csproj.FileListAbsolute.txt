@@ -1,0 +1,10 @@
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\Ado\Ado\bin\Debug\Ado.dll.config
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\Ado\Ado\bin\Debug\Ado.dll
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\Ado\Ado\bin\Debug\Ado.pdb
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\Ado\Ado\bin\Debug\EntityFramework.dll
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\Ado\Ado\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\Ado\Ado\bin\Debug\EntityFramework.xml
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\Ado\Ado\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\Ado\Ado\obj\Debug\Ado.csprojResolveAssemblyReference.cache
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\Ado\Ado\obj\Debug\Ado.dll
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\Ado\Ado\obj\Debug\Ado.pdb

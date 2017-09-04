@@ -1,0 +1,9 @@
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\WindowsService\WindowsService\obj\Debug\WindowsService.csprojResolveAssemblyReference.cache
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\WindowsService\WindowsService\obj\Debug\WindowsService.Service1.resources
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.Cache
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources

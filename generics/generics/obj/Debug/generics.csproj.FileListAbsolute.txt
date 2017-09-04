@@ -1,0 +1,6 @@
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\generics\generics\bin\Debug\generics.exe.config
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\generics\generics\bin\Debug\generics.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\generics\generics\bin\Debug\generics.pdb
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\generics\generics\obj\Debug\generics.csprojResolveAssemblyReference.cache
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\generics\generics\obj\Debug\generics.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\generics\generics\obj\Debug\generics.pdb

@@ -1,0 +1,6 @@
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\AdoPractice\AdoPractice\bin\Debug\AdoPractice.exe.config
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\AdoPractice\AdoPractice\bin\Debug\AdoPractice.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\AdoPractice\AdoPractice\bin\Debug\AdoPractice.pdb
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\AdoPractice\AdoPractice\obj\Debug\AdoPractice.csprojResolveAssemblyReference.cache
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\AdoPractice\AdoPractice\obj\Debug\AdoPractice.exe
+c:\users\sureshkumar_a\documents\visual studio 2015\Projects\AdoPractice\AdoPractice\obj\Debug\AdoPractice.pdb
